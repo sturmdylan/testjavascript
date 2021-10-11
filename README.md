@@ -1,1 +1,2 @@
 # testjavascript
+javascript is awsome 
